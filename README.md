@@ -1,12 +1,6 @@
 # UERemoteRender
 
-
-
-
-
 UE局域网多节点渲染脚本
-
-
 
 1. ssh链接渲染子节点
 
@@ -23,8 +17,8 @@ UE局域网多节点渲染脚本
 7. 本地文件确认
 
 8. 退出ssh链接
-
-
+   
+   
 
 UE LAN multi-node rendering script
 
@@ -46,6 +40,8 @@ UE LAN multi-node rendering script
 
 
 
+---
+
 
 
 参数位于：The parameters are located at:
@@ -59,3 +55,15 @@ utils_params.py
 ```
 python uerender_Main.py
 ```
+
+
+
+---
+
+
+
+@juneleng 
+
+juneleungchan@163.com
+
+20230629
